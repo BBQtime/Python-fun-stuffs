@@ -1,8 +1,5 @@
 # Python-fun-stuffs
-Original topics on https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators
+Here I would share something interesting about Python from the internet, mostly about python 3. You might already know them but there must be something you find it's fun. 
 
-This notebook try to replicate the anwsers with more detials.
 
-Python functions are objects
-
-To understand decorators, you must first understand that functiosn are objects in Python. This has import consequences. Let's see below example:
+# updating...
